@@ -1,0 +1,9 @@
+ID,Evidence,Source,H1: takedown reduced activity,H2: already pausing or shifting before takedown,H3: mainly a reporting effect
+E1,Qakbot samples fell from 309 (June 2023) to 5 (July 2023),Phase 3 data,Against (before the takedown),Supports,Neutral
+E2,Qakbot's share fell from about 1.3% to about 0.04% while total submissions stayed in a similar range,Phase 3 data,Supports,Supports,Neutral
+E3,"Zscaler saw a significant drop after June 2023, cause unclear",S03,Against (published July 25),Supports,Against (separate data source)
+E4,"Talos: a campaign began in early August, before the takedown, and continued after it",S02,Neutral,Supports,Neutral
+E5,Reporters fell from about 18 a month to about 1.6,Phase 3 data,Neutral,Neutral,Supports
+E6,"Earlier dips (Aug 2022, Jan 2023) recovered within a month; this one did not",Phase 3 data,Neutral,Supports,Neutral
+E7,"Microsoft saw a new low-volume campaign beginning December 11, 2023",S04,Supports,Neutral,Neutral
+E8,The FBI took control of the botnet and pushed an uninstaller,S01,Supports,Neutral,Neutral
