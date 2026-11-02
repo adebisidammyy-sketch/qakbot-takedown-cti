@@ -1,4 +1,4 @@
-#Did the 2023 takedown reduce Qakbot activity?
+Did the 2023 takedown reduce Qakbot activity?
 
 A cyber threat intelligence (CTI) project using only free, public sources. It tests whether the August 2023 law enforcement takedown of Qakbot reduced the malware's visible activity, and what else could explain the change.
 
