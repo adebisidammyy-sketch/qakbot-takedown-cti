@@ -1,0 +1,10 @@
+# Never commit raw dumps or credentials
+full.csv
+full.csv.zip
+*.zip
+.env
+*.pem
+*.key
+auth-key*
+__pycache__/
+.ipynb_checkpoints/
