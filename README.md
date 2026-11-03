@@ -51,5 +51,3 @@ Intelligence requirements, source evaluation and double-counting checks, separat
 
 ## How this was made
 I did the hands-on collection: I registered for the free abuse.ch Auth-Key, downloaded the MalwareBazaar data, ran the Python code in Google Colab, found and read the six sources, checked each technique on the MITRE ATT&CK site, and took the screenshots in `evidence/`.
-
-I used an AI assistant (Claude) as a mentor throughout. It proposed the project design, wrote the Python scripts, drafted the assessment text, brief and tables, and corrected my mistakes. I reviewed these against my own data and sources and reworded parts of them. The conclusions are limited by the evidence I collected, and the confidence levels say so.
